@@ -234,7 +234,7 @@ export default function HeroSection() {
                 lineHeight: 1
               }}
             >
-              DISCOVER IT
+              ABOUT
             </span>
             <ArrowRight className="ml-2 w-5 h-5 sm:w-8 sm:h-8" strokeWidth={2.25} />
           </a>
