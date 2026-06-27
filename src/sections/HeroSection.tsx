@@ -146,7 +146,7 @@ export default function HeroSection() {
         {/* Top-left brand label */}
         <div className="absolute top-6 left-4 sm:left-8 z-[60] text-white opacity-90">
           <span className="text-xs font-semibold uppercase" style={{ letterSpacing: '0.18em' }}>
-            TOONHUB
+            KALUA GANG
           </span>
         </div>
 
