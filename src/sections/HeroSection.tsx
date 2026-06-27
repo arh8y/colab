@@ -178,7 +178,7 @@ export default function HeroSection() {
         {/* Bottom-left text + nav buttons */}
         <div className="absolute bottom-6 left-4 sm:bottom-20 sm:left-24 z-[60] max-w-[320px]">
           <p className="mb-2 sm:mb-3 text-base sm:text-[22px] font-bold uppercase tracking-widest text-white opacity-95" style={{ letterSpacing: '0.02em' }}>
-            TOONHUB FIGURINES
+            GROUP MEMBERS
           </p>
           <p className="hidden sm:block text-xs sm:text-sm text-white opacity-85 leading-relaxed mb-4 sm:mb-5">
             The artwork is stunning, shipped fully prepared. The finish is a vision, the 3D craft is flawless. Many thanks! Wishing you the win. Order now.
