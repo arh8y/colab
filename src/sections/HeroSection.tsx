@@ -181,7 +181,7 @@ export default function HeroSection() {
             GROUP MEMBERS
           </p>
           <p className="hidden sm:block text-xs sm:text-sm text-white opacity-85 leading-relaxed mb-4 sm:mb-5">
-            The artwork is stunning, shipped fully prepared. The finish is a vision, the 3D craft is flawless. Many thanks! Wishing you the win. Order now.
+            The friendship is genuine, the memories are endless. Together through every chapter. Kalua Gang forever.
           </p>
           
           <div className="flex gap-4">
