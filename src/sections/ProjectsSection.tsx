@@ -38,10 +38,7 @@ interface ProjectCardProps {
 
 const ProjectCard: React.FC<ProjectCardProps> = ({ project, index, totalCards }) => {
   const cardRef = useRef<HTMLDivElement>(null);
-  const { scrollYProgress } = useScroll({
-    target: cardRef,
-    offset: ["start end", "start start"]
-  });
+
 
   const { scrollYProgress: scrollYProgressLeave } = useScroll({
     target: cardRef,
